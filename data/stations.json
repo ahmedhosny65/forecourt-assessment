@@ -1,0 +1,28 @@
+{
+ "stations": [
+  {
+   "station_code": "A",
+   "station_name": "Station A",
+   "pts_id": "007785315870055104117753",
+   "utc_offset_minutes": 180
+  },
+  {
+   "station_code": "B",
+   "station_name": "Station B",
+   "pts_id": "007753512174791678571972",
+   "utc_offset_minutes": 180
+  },
+  {
+   "station_code": "C",
+   "station_name": "Station C",
+   "pts_id": "007785249719089974832907",
+   "utc_offset_minutes": 180
+  },
+  {
+   "station_code": "D",
+   "station_name": "Station D",
+   "pts_id": "007772024774998373227327",
+   "utc_offset_minutes": 0
+  }
+ ]
+}
